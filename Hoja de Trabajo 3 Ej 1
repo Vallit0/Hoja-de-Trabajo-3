@@ -1,0 +1,9 @@
+nombre = str(input("¿Cuál es su nombre?: "))
+
+sexo = str(input("¿Cuál es su sexo? (ingrese 'm' o 'f'):"))
+
+if nombre == 'a' and sexo == 'm':
+    print("Usted pertenece al grupo A")
+else: 
+    print("Usted pertenece al grupo B")
+    
