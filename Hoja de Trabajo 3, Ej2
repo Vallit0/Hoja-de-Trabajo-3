@@ -1,0 +1,14 @@
+nombre = str(input("Escriba la inicial de su nombre : "))
+
+list = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h','j','k','l','m']
+  
+# Using for loop
+for i in list:
+    if i == nombre 
+            valor = True
+ sexo = str(input("¿Cuál es su sexo? (ingrese 'm' o 'f'):"))
+
+ if valor == True and sexo == "f":
+     print("Usted pertence al grupo A")
+ else: 
+     print("Usted Pertenece al Grupo B")   
